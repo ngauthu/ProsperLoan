@@ -17,7 +17,7 @@ The estimated effective yield is lower on average when the borrower is a homeown
 When we look at the violin plot, as the borrower's rating improves, the estimated effective yield decreases significantly. We also see that the estimated effective yield is the highest among the worse loan profiles (defaulted and charged off, past due) on average.
 When we move to multivariate explorations, we can see that loan term can have an effect on the relationship between loan original amount and estimated effective yield. There is a stronger relationship between loan original amount and estimated effective yield when loan term is 36 or 60 months. However, loan term does not seem to have a clear impact on the relationship between debt-to-income ratio and estimated effective yield.
 
-## Insights for the explantory presentation
+## Insights for the explanatory presentation
 
 > For the slidedeck presentation, I focus on a few insights below:
 
