@@ -1,6 +1,6 @@
 # ProsperLoan
 Visualization of private loans and factors impacting returns on loans
-_Ngau-Thu Nguyen_
+
 
 ## Dataset Overview 
 
